@@ -16,7 +16,7 @@ def menu():
             print("5. Keluar Program")
 
             user_option = int(input("\nSilahkan pilih menu [1-5]: "))
-    
+  
             if user_option == 1:
                 cuypy.start()
             elif user_option == 2:
