@@ -22,6 +22,7 @@ def exit_program():
     sleep(1)
     print('Program berhasil dihentikan')
     print("\nTerima kasih telah menggunakan program ini 👋")
+    exit()
     
 if __name__ == '__main__':
     welcome_massage()
